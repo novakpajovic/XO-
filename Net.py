@@ -1,9 +1,3 @@
-'''
-Created on Dec 13, 2019
-
-@author: aiswa
-'''
-
 import numpy as np
 import torch as tr
 import csv
